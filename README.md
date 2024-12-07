@@ -1,8 +1,6 @@
 # Everest
 Peaks identification using CNN
 
-<p align="center"><img src="res/plot.png" width="600"></p>
-
 ## Usage
 
 To install `everest`, download the release and run the following pip command:
